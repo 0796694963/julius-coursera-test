@@ -1,2 +1,2 @@
 # JULIUS-COURSERA TEST
-Julius Coursera Respository test
+JULIUS REPOSITORY TEST
